@@ -10,7 +10,5 @@ header {
     color: rgb(42, 122, 228);
 }
 section {
-     background: (255, 0, 0);
-
-
+     background: rgb(255, 0, 0)
 }
